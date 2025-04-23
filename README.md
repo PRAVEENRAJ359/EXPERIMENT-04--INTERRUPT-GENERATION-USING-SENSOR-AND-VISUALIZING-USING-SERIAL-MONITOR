@@ -2,9 +2,9 @@
 
 ###  DATE: 17.04.2025
 
-###  NAME: BASKAR J
-###  REG NO : 212223040025
-###  DEPARTMENT: COMPUTER SCIENCE AND ENGINEERING
+###  NAME: PRAVEEN RAJ.R
+###  REG NO : 212224230207
+###  DEPARTMENT: AI&DS
 ### Aim:
 To Interface a IR Sensor to digital port of iot development board  and generate an interrupt and visualize on the serial monitor 
 
